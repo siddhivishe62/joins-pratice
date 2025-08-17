@@ -2,6 +2,18 @@
 SQL JOIN CODE
 # SQL Joins Practice Task
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SIDDHI RAMESH VISHE
+
+*INTERN ID*: CT08DH665
+
+*DOMAIN*: SQL
+
+*DURATION*: 6 Weeks
+
+*MENTOR* : NEELA SANTOSH
+
 ## 🔧 Task Description:
 Perform INNER, LEFT, RIGHT, and FULL JOINS on tables to combine data meaningfully.
 
